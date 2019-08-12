@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16968ff1-1f23-4faa-843a-1dd08e79a20d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solution_6.js" afterDir="false" />
+    <list default="true" id="16968ff1-1f23-4faa-843a-1dd08e79a20d" name="Default Changelist" comment="added 41th solution">
+      <change afterPath="$PROJECT_DIR$/solution_62.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,40 +18,54 @@
     <session id="-430260409">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="33" />
+          <entry key="project.open.time.0" value="14" />
+          <entry key="project.open.time.1" value="15" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="6" />
+          <entry key="js" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="6" />
+          <entry key="JavaScript" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="30" />
+          <entry key="js" value="23" />
+          <entry key="txt" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="JavaScript" value="23" />
+          <entry key="PLAIN_TEXT" value="146" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solution_6.js">
+        <entry file="file://$PROJECT_DIR$/solution_62.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="332">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solution_31.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="45" column="1" lean-forward="true" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -67,16 +81,62 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solution_1.js" />
-        <option value="$PROJECT_DIR$/solution_2.js" />
-        <option value="$PROJECT_DIR$/solution_3.js" />
-        <option value="$PROJECT_DIR$/solution_4.js" />
-        <option value="$PROJECT_DIR$/solution_5.js" />
-        <option value="$PROJECT_DIR$/solution_6.js" />
+        <option value="$PROJECT_DIR$/solujtion_7.js" />
+        <option value="$PROJECT_DIR$/solution_8.js" />
+        <option value="$PROJECT_DIR$/solution_9.js" />
+        <option value="$PROJECT_DIR$/solution_10.js" />
+        <option value="$PROJECT_DIR$/solution_11.js" />
+        <option value="$PROJECT_DIR$/solution_12.js" />
+        <option value="$PROJECT_DIR$/solution_13.js" />
+        <option value="$PROJECT_DIR$/solution_14.js" />
+        <option value="$PROJECT_DIR$/solution_15.js" />
+        <option value="$PROJECT_DIR$/solution_16.js" />
+        <option value="$PROJECT_DIR$/solution_17.js" />
+        <option value="$PROJECT_DIR$/solution_18.js" />
+        <option value="$PROJECT_DIR$/solution_19.js" />
+        <option value="$PROJECT_DIR$/solution_20.js" />
+        <option value="$PROJECT_DIR$/solution_22.js" />
+        <option value="$PROJECT_DIR$/solution_23.js" />
+        <option value="$PROJECT_DIR$/solution_24.js" />
+        <option value="$PROJECT_DIR$/solution_25.js" />
+        <option value="$PROJECT_DIR$/solution_26.js" />
+        <option value="$PROJECT_DIR$/solution_27.js" />
+        <option value="$PROJECT_DIR$/solution_28.js" />
+        <option value="$PROJECT_DIR$/solution_29.js" />
+        <option value="$PROJECT_DIR$/solution_30.js" />
+        <option value="$PROJECT_DIR$/solution_31.js" />
+        <option value="$PROJECT_DIR$/solution_33.js" />
+        <option value="$PROJECT_DIR$/solution_34.js" />
+        <option value="$PROJECT_DIR$/solution_35.js" />
+        <option value="$PROJECT_DIR$/solution_36.js" />
+        <option value="$PROJECT_DIR$/solution_37.js" />
+        <option value="$PROJECT_DIR$/solution_38.js" />
+        <option value="$PROJECT_DIR$/solution_39.js" />
+        <option value="$PROJECT_DIR$/solution_40.js" />
+        <option value="$PROJECT_DIR$/solution_41.js" />
+        <option value="$PROJECT_DIR$/solution_42.js" />
+        <option value="$PROJECT_DIR$/solution_43.js" />
+        <option value="$PROJECT_DIR$/solution_44.js" />
+        <option value="$PROJECT_DIR$/solution_45.js" />
+        <option value="$PROJECT_DIR$/solution_46.js" />
+        <option value="$PROJECT_DIR$/solution_48.js" />
+        <option value="$PROJECT_DIR$/solution_50.js" />
+        <option value="$PROJECT_DIR$/solution_51.js" />
+        <option value="$PROJECT_DIR$/solution_53.js" />
+        <option value="$PROJECT_DIR$/solution_54.js" />
+        <option value="$PROJECT_DIR$/solution_55.js" />
+        <option value="$PROJECT_DIR$/solution_56.js" />
+        <option value="$PROJECT_DIR$/solution_57.js" />
+        <option value="$PROJECT_DIR$/solution_58.js" />
+        <option value="$PROJECT_DIR$/solution_59.js" />
+        <option value="$PROJECT_DIR$/solution_60.js" />
+        <option value="$PROJECT_DIR$/solution_61.js" />
+        <option value="$PROJECT_DIR$/solution_62.js" />
       </list>
     </option>
   </component>
@@ -86,11 +146,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1107" />
+    <option name="width" value="1440" />
+    <option name="height" value="814" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -98,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,10 +168,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -141,47 +202,394 @@
       <option name="presentableId" value="Default" />
       <updated>1559747871094</updated>
       <workItem from="1559747872348" duration="297000" />
-      <workItem from="1559824854839" duration="138000" />
+      <workItem from="1559824854839" duration="157000" />
+      <workItem from="1559944832851" duration="1032000" />
+      <workItem from="1560690815551" duration="958000" />
+      <workItem from="1560855057114" duration="122000" />
+      <workItem from="1561457546869" duration="126000" />
+      <workItem from="1561542400825" duration="101000" />
+      <workItem from="1561623740441" duration="298000" />
+      <workItem from="1561700899068" duration="411000" />
+      <workItem from="1561910193948" duration="304000" />
+      <workItem from="1561910709213" duration="16000" />
+      <workItem from="1561963601529" duration="60000" />
+      <workItem from="1562050097739" duration="57000" />
+      <workItem from="1562146753870" duration="60000" />
+      <workItem from="1562221757274" duration="56000" />
+      <workItem from="1562601280607" duration="96000" />
+      <workItem from="1562693614381" duration="129000" />
+      <workItem from="1562780955467" duration="93000" />
+      <workItem from="1562859461668" duration="78000" />
+      <workItem from="1563110870847" duration="60000" />
+      <workItem from="1563224381306" duration="74000" />
+      <workItem from="1563312886248" duration="78000" />
+      <workItem from="1563387048715" duration="44000" />
+      <workItem from="1563552925427" duration="45000" />
+      <workItem from="1563726571564" duration="89000" />
+      <workItem from="1563806677137" duration="51000" />
+      <workItem from="1563896212376" duration="48000" />
+      <workItem from="1563992176940" duration="44000" />
+      <workItem from="1564082228143" duration="47000" />
+      <workItem from="1564260542372" duration="1308000" />
+      <workItem from="1564413325764" duration="79000" />
+      <workItem from="1564671041200" duration="387000" />
+      <workItem from="1565104383746" duration="62000" />
+      <workItem from="1565575738730" duration="25000" />
     </task>
-    <task id="LOCAL-00001" summary="added second solution">
-      <created>1559748095817</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00007" summary="added 6th solution">
+      <created>1559944898391</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1559748095817</updated>
+      <updated>1559944898391</updated>
     </task>
-    <task id="LOCAL-00002" summary="added third solution">
-      <created>1559748192919</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00008" summary="added 6th solution">
+      <created>1559944928050</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1559748192919</updated>
+      <updated>1559944928050</updated>
     </task>
-    <task id="LOCAL-00003" summary="added 4th solution">
-      <created>1559824916428</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00009" summary="added 6th solution">
+      <created>1560096384095</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1559824916428</updated>
+      <updated>1560096384095</updated>
     </task>
-    <task id="LOCAL-00004" summary="added 5th solution">
-      <created>1559824960403</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00010" summary="added 6th solution">
+      <created>1560096436269</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1559824960403</updated>
+      <updated>1560096436269</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00011" summary="added 6th solution">
+      <created>1560096483703</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1560096483703</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added 6th solution">
+      <created>1560096534365</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1560096534365</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added 6th solution">
+      <created>1560177889884</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560177889884</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added 6th solution">
+      <created>1560177930650</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1560177930650</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added 6th solution">
+      <created>1560177972113</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560177972113</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added 17th solution">
+      <created>1560349246604</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1560349246604</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added 18th solution">
+      <created>1560349282775</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1560349282775</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added 19th solution">
+      <created>1560690964161</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1560690964161</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added 20th solution">
+      <created>1560691219851</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1560691219851</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added 22th solution">
+      <created>1560757144866</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1560757144866</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added 23th solution">
+      <created>1560757235996</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1560757235996</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added 24th solution">
+      <created>1560855116199</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1560855116199</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added 25th solution">
+      <created>1560855169850</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1560855169850</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added 26th solution">
+      <created>1561457619858</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1561457619858</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added 27th solution">
+      <created>1561457665112</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1561457665112</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added 28th solution">
+      <created>1561542450859</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1561542450859</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added 30th solution">
+      <created>1561542491791</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1561542491791</updated>
+    </task>
+    <task id="LOCAL-00028" summary="added 30th solution">
+      <created>1561623783833</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1561623783833</updated>
+    </task>
+    <task id="LOCAL-00029" summary="added 31th solution">
+      <created>1561623825776</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1561623825776</updated>
+    </task>
+    <task id="LOCAL-00030" summary="added 33th solution">
+      <created>1561701330328</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1561701330328</updated>
+    </task>
+    <task id="LOCAL-00031" summary="added 34th solution">
+      <created>1561701404963</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1561701404963</updated>
+    </task>
+    <task id="LOCAL-00032" summary="added 35th solution">
+      <created>1561910516790</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1561910516790</updated>
+    </task>
+    <task id="LOCAL-00033" summary="added 36th solution">
+      <created>1561963651736</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1561963651737</updated>
+    </task>
+    <task id="LOCAL-00034" summary="added 37th solution">
+      <created>1562050145812</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1562050145812</updated>
+    </task>
+    <task id="LOCAL-00035" summary="added 38th solution">
+      <created>1562146804253</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1562146804253</updated>
+    </task>
+    <task id="LOCAL-00036" summary="added 39th solution">
+      <created>1562221801900</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1562221801900</updated>
+    </task>
+    <task id="LOCAL-00037" summary="added 40th solution">
+      <created>1562601366465</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1562601366465</updated>
+    </task>
+    <task id="LOCAL-00038" summary="added 41th solution">
+      <created>1562693726168</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1562693726168</updated>
+    </task>
+    <task id="LOCAL-00039" summary="added 41th solution">
+      <created>1562781041377</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1562781041377</updated>
+    </task>
+    <task id="LOCAL-00040" summary="added 43th solution">
+      <created>1562859531304</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1562859531304</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added 44th solution">
+      <created>1563110916803</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1563110916803</updated>
+    </task>
+    <task id="LOCAL-00042" summary="added 45th solution">
+      <created>1563224445369</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1563224445369</updated>
+    </task>
+    <task id="LOCAL-00043" summary="added 46th solution">
+      <created>1563312955197</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1563312955197</updated>
+    </task>
+    <task id="LOCAL-00044" summary="added 48th solution">
+      <created>1563387083986</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1563387083986</updated>
+    </task>
+    <task id="LOCAL-00045" summary="added 50th solution">
+      <created>1563552960422</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1563552960423</updated>
+    </task>
+    <task id="LOCAL-00046" summary="added 51th solution">
+      <created>1563726649618</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1563726649618</updated>
+    </task>
+    <task id="LOCAL-00047" summary="added 53th solution">
+      <created>1563806719685</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1563806719685</updated>
+    </task>
+    <task id="LOCAL-00048" summary="added 54th solution">
+      <created>1563896248337</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1563896248337</updated>
+    </task>
+    <task id="LOCAL-00049" summary="added 55th solution">
+      <created>1563992212460</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1563992212460</updated>
+    </task>
+    <task id="LOCAL-00050" summary="added 56th solution">
+      <created>1564082265210</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1564082265210</updated>
+    </task>
+    <task id="LOCAL-00051" summary="added 57th solution">
+      <created>1564346681587</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1564346681587</updated>
+    </task>
+    <task id="LOCAL-00052" summary="added 58th solution">
+      <created>1564413392275</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1564413392275</updated>
+    </task>
+    <task id="LOCAL-00053" summary="added 59th solution">
+      <created>1564671134604</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1564671134605</updated>
+    </task>
+    <task id="LOCAL-00054" summary="added 60th solution">
+      <created>1564754073221</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1564754073221</updated>
+    </task>
+    <task id="LOCAL-00055" summary="added 61th solution">
+      <created>1565104436630</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1565104436630</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="435000" />
+    <option name="totallyTimeSpent" value="6892000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="23" width="1920" height="1107" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33403805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -193,9 +601,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32932934" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.39722222" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32678133" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -209,52 +618,388 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added second solution" />
-    <MESSAGE value="added third solution" />
-    <MESSAGE value="added 4th solution" />
-    <MESSAGE value="added 5th solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 5th solution" />
+    <MESSAGE value="added 33th solution" />
+    <MESSAGE value="added 34th solution" />
+    <MESSAGE value="added 35th solution" />
+    <MESSAGE value="added 36th solution" />
+    <MESSAGE value="added 37th solution" />
+    <MESSAGE value="added 38th solution" />
+    <MESSAGE value="added 39th solution" />
+    <MESSAGE value="added 40th solution" />
+    <MESSAGE value="added 41th solution" />
+    <MESSAGE value="added 43th solution" />
+    <MESSAGE value="added 44th solution" />
+    <MESSAGE value="added 45th solution" />
+    <MESSAGE value="added 46th solution" />
+    <MESSAGE value="added 48th solution" />
+    <MESSAGE value="added 50th solution" />
+    <MESSAGE value="added 51th solution" />
+    <MESSAGE value="added 53th solution" />
+    <MESSAGE value="added 54th solution" />
+    <MESSAGE value="added 55th solution" />
+    <MESSAGE value="added 56th solution" />
+    <MESSAGE value="added 57th solution" />
+    <MESSAGE value="added 58th solution" />
+    <MESSAGE value="added 59th solution" />
+    <MESSAGE value="added 60th solution" />
+    <MESSAGE value="added 61th solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 61th solution" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solution_1.js">
+    <entry file="file://$PROJECT_DIR$/solution_16.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="945">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solution_3.js">
+    <entry file="file://$PROJECT_DIR$/solution_11.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
+        <state relative-caret-position="354">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_20.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_19.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_22.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_23.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_25.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_24.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_26.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_29.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_28.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_30.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_33.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_34.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_35.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_37.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_38.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_39.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_40.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
           <caret line="95" selection-start-line="95" selection-end-line="95" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solution_2.js">
+    <entry file="file://$PROJECT_DIR$/solution_41.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+        <state relative-caret-position="287">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_42.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_43.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_44.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_46.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_45.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_17.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="45" lean-forward="true" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_36.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="52" column="39" lean-forward="true" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_48.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_50.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_27.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="5" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_15.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_53.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_51.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_54.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_55.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="9" selection-end-line="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solution_4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="239">
+          <caret line="37" column="19" lean-forward="true" selection-end-line="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solution_5.js">
+    <entry file="file://$PROJECT_DIR$/solution_56.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="280">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solution_6.js">
+    <entry file="file://$PROJECT_DIR$/solution_18.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="183">
+          <caret line="60" column="39" lean-forward="true" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_57.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="75" lean-forward="true" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_58.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_14.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="13" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_60.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_59.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="20" lean-forward="true" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_61.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_31.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="45" column="1" lean-forward="true" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_62.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
