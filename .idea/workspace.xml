@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16968ff1-1f23-4faa-843a-1dd08e79a20d" name="Default Changelist" comment="added 41th solution">
-      <change afterPath="$PROJECT_DIR$/solution_62.js" afterDir="false" />
+    <list default="true" id="16968ff1-1f23-4faa-843a-1dd08e79a20d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/solution_65.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,54 +18,54 @@
     <session id="-430260409">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="33" />
-          <entry key="project.open.time.0" value="14" />
-          <entry key="project.open.time.1" value="15" />
-          <entry key="project.open.time.4" value="4" />
+          <entry key="project.closed" value="37" />
+          <entry key="project.open.time.0" value="15" />
+          <entry key="project.open.time.1" value="16" />
+          <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="71" />
+          <entry key="js" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="71" />
+          <entry key="JavaScript" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="23" />
-          <entry key="txt" value="146" />
+          <entry key="txt" value="154" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="23" />
-          <entry key="PLAIN_TEXT" value="146" />
+          <entry key="PLAIN_TEXT" value="154" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solution_62.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solution_64.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="220">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution_31.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solution_65.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="45" column="1" lean-forward="true" selection-end-line="55" />
+            <state relative-caret-position="271">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -86,9 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solujtion_7.js" />
-        <option value="$PROJECT_DIR$/solution_8.js" />
-        <option value="$PROJECT_DIR$/solution_9.js" />
         <option value="$PROJECT_DIR$/solution_10.js" />
         <option value="$PROJECT_DIR$/solution_11.js" />
         <option value="$PROJECT_DIR$/solution_12.js" />
@@ -137,6 +134,9 @@
         <option value="$PROJECT_DIR$/solution_60.js" />
         <option value="$PROJECT_DIR$/solution_61.js" />
         <option value="$PROJECT_DIR$/solution_62.js" />
+        <option value="$PROJECT_DIR$/solution_63.js" />
+        <option value="$PROJECT_DIR$/solution_64.js" />
+        <option value="$PROJECT_DIR$/solution_65.js" />
       </list>
     </option>
   </component>
@@ -146,10 +146,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="814" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -234,28 +234,10 @@
       <workItem from="1564413325764" duration="79000" />
       <workItem from="1564671041200" duration="387000" />
       <workItem from="1565104383746" duration="62000" />
-      <workItem from="1565575738730" duration="25000" />
-    </task>
-    <task id="LOCAL-00007" summary="added 6th solution">
-      <created>1559944898391</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1559944898391</updated>
-    </task>
-    <task id="LOCAL-00008" summary="added 6th solution">
-      <created>1559944928050</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1559944928050</updated>
-    </task>
-    <task id="LOCAL-00009" summary="added 6th solution">
-      <created>1560096384095</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1560096384095</updated>
+      <workItem from="1565575738730" duration="158000" />
+      <workItem from="1565810265787" duration="39000" />
+      <workItem from="1565884945763" duration="509000" />
+      <workItem from="1566230478833" duration="18000" />
     </task>
     <task id="LOCAL-00010" summary="added 6th solution">
       <created>1560096436269</created>
@@ -579,14 +561,35 @@
       <option name="project" value="LOCAL" />
       <updated>1565104436630</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="added 62th solution">
+      <created>1565575803280</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1565575803281</updated>
+    </task>
+    <task id="LOCAL-00057" summary="added 63th solution">
+      <created>1565810295055</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1565810295055</updated>
+    </task>
+    <task id="LOCAL-00058" summary="added 64th solution">
+      <created>1565884989366</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1565884989366</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6892000" />
+    <option name="totallyTimeSpent" value="7591000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33403805" />
@@ -601,7 +604,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.39722222" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.47759104" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32678133" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="12" show_stripe_button="false" />
@@ -618,9 +621,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added 33th solution" />
-    <MESSAGE value="added 34th solution" />
-    <MESSAGE value="added 35th solution" />
     <MESSAGE value="added 36th solution" />
     <MESSAGE value="added 37th solution" />
     <MESSAGE value="added 38th solution" />
@@ -643,37 +643,12 @@
     <MESSAGE value="added 59th solution" />
     <MESSAGE value="added 60th solution" />
     <MESSAGE value="added 61th solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 61th solution" />
+    <MESSAGE value="added 62th solution" />
+    <MESSAGE value="added 63th solution" />
+    <MESSAGE value="added 64th solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 64th solution" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solution_16.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution_11.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution_9.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution_20.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solution_19.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
@@ -884,13 +859,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solution_54.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solution_55.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="636">
@@ -909,13 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="37" column="19" lean-forward="true" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution_56.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
@@ -1000,6 +961,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
           <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_63.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_56.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_64.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_54.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="36" lean-forward="true" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="20" lean-forward="true" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_65.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
