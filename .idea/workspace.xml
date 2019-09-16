@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16968ff1-1f23-4faa-843a-1dd08e79a20d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solution_78.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_79.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,35 +18,35 @@
     <session id="-430260409">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="49" />
+          <entry key="project.closed" value="50" />
           <entry key="project.open.time.0" value="20" />
           <entry key="project.open.time.1" value="20" />
-          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.4" value="8" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="50" />
+          <entry key="project.opened" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="101" />
+          <entry key="js" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="101" />
+          <entry key="JavaScript" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="23" />
-          <entry key="txt" value="180" />
+          <entry key="txt" value="182" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="23" />
-          <entry key="PLAIN_TEXT" value="180" />
+          <entry key="PLAIN_TEXT" value="182" />
         </counts>
       </usages-collector>
     </session>
@@ -54,19 +54,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solution_78.js">
+        <entry file="file://$PROJECT_DIR$/solution_79.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution_59.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="43" column="1" lean-forward="true" selection-end-line="57" selection-end-column="1" />
+            <state relative-caret-position="274">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -87,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solution_23.js" />
         <option value="$PROJECT_DIR$/solution_24.js" />
         <option value="$PROJECT_DIR$/solution_25.js" />
         <option value="$PROJECT_DIR$/solution_26.js" />
@@ -138,6 +128,7 @@
         <option value="$PROJECT_DIR$/solution_76.js" />
         <option value="$PROJECT_DIR$/solution_77.js" />
         <option value="$PROJECT_DIR$/solution_78.js" />
+        <option value="$PROJECT_DIR$/solution_79.js" />
       </list>
     </option>
   </component>
@@ -158,6 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,7 +161,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Course" />
     </panes>
   </component>
@@ -250,14 +241,8 @@
       <workItem from="1568126983334" duration="47000" />
       <workItem from="1568226399991" duration="49000" />
       <workItem from="1568300760110" duration="57000" />
-      <workItem from="1568563044533" duration="25000" />
-    </task>
-    <task id="LOCAL-00022" summary="added 24th solution">
-      <created>1560855116199</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1560855116199</updated>
+      <workItem from="1568563044533" duration="67000" />
+      <workItem from="1568644835260" duration="29000" />
     </task>
     <task id="LOCAL-00023" summary="added 25th solution">
       <created>1560855169850</created>
@@ -595,11 +580,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568300800818</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="added 78th solution">
+      <created>1568563081789</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1568563081789</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8841000" />
+    <option name="totallyTimeSpent" value="8912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="0" />
@@ -617,7 +609,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.47338936" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.47338936" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32678133" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="12" show_stripe_button="false" />
@@ -634,7 +626,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added 51th solution" />
     <MESSAGE value="added 53th solution" />
     <MESSAGE value="added 54th solution" />
     <MESSAGE value="added 55th solution" />
@@ -659,16 +650,10 @@
     <MESSAGE value="added 75th solution" />
     <MESSAGE value="added 76th solution" />
     <MESSAGE value="added 77th solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 77th solution" />
+    <MESSAGE value="added 78th solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 78th solution" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solution_39.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solution_41.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
@@ -865,13 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solution_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="20" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solution_67.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -1005,17 +983,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solution_59.js">
+    <entry file="file://$PROJECT_DIR$/solution_78.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="43" column="1" lean-forward="true" selection-end-line="57" selection-end-column="1" />
+        <state relative-caret-position="198">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solution_78.js">
+    <entry file="file://$PROJECT_DIR$/solution_59.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        <state relative-caret-position="817">
+          <caret line="43" column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="30" lean-forward="true" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_79.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
