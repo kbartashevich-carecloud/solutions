@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16968ff1-1f23-4faa-843a-1dd08e79a20d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solution_82.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_83.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,35 +18,39 @@
     <session id="-430260409">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="51" />
-          <entry key="project.open.time.0" value="20" />
+          <entry key="project.closed" value="52" />
+          <entry key="project.open.time.0" value="21" />
           <entry key="project.open.time.1" value="21" />
           <entry key="project.open.time.4" value="8" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="52" />
+          <entry key="project.opened" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="109" />
+          <entry key="js" value="111" />
+          <entry key="yaml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="109" />
+          <entry key="JavaScript" value="111" />
+          <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="23" />
-          <entry key="txt" value="192" />
+          <entry key="txt" value="194" />
+          <entry key="yaml" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="23" />
-          <entry key="PLAIN_TEXT" value="192" />
+          <entry key="PLAIN_TEXT" value="194" />
+          <entry key="YAML" value="25" />
         </counts>
       </usages-collector>
     </session>
@@ -54,19 +58,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solution_82.js">
+        <entry file="file://$PROJECT_DIR$/solution_83.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="612">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution_36.js">
+        <entry file="file://$PROJECT_DIR$/solution_14.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="47" column="1" lean-forward="true" selection-end-line="63" />
+            <state relative-caret-position="196">
+              <caret line="32" column="34" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -87,8 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solution_27.js" />
-        <option value="$PROJECT_DIR$/solution_28.js" />
         <option value="$PROJECT_DIR$/solution_29.js" />
         <option value="$PROJECT_DIR$/solution_30.js" />
         <option value="$PROJECT_DIR$/solution_31.js" />
@@ -138,6 +140,8 @@
         <option value="$PROJECT_DIR$/solution_80.js" />
         <option value="$PROJECT_DIR$/solution_81.js" />
         <option value="$PROJECT_DIR$/solution_82.js" />
+        <option value="$PROJECT_DIR$/../../vm.yaml" />
+        <option value="$PROJECT_DIR$/solution_83.js" />
       </list>
     </option>
   </component>
@@ -158,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,6 +173,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Course" />
     </panes>
   </component>
@@ -252,14 +256,8 @@
       <workItem from="1568300760110" duration="57000" />
       <workItem from="1568563044533" duration="67000" />
       <workItem from="1568644835260" duration="49000" />
-      <workItem from="1568913678450" duration="562000" />
-    </task>
-    <task id="LOCAL-00026" summary="added 28th solution">
-      <created>1561542450859</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1561542450859</updated>
+      <workItem from="1568913678450" duration="1286000" />
+      <workItem from="1569526246889" duration="19000" />
     </task>
     <task id="LOCAL-00027" summary="added 30th solution">
       <created>1561542491791</created>
@@ -597,11 +595,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569242731495</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="added 82th solution">
+      <created>1569423959917</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1569423959917</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9494000" />
+    <option name="totallyTimeSpent" value="10237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="0" />
@@ -619,7 +624,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.47338936" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.47338936" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32678133" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="12" show_stripe_button="false" />
@@ -636,7 +641,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added 56th solution" />
     <MESSAGE value="added 57th solution" />
     <MESSAGE value="added 58th solution" />
     <MESSAGE value="added 59th solution" />
@@ -661,23 +665,10 @@
     <MESSAGE value="added 79th solution" />
     <MESSAGE value="added 80th solution" />
     <MESSAGE value="added 81th solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 81th solution" />
+    <MESSAGE value="added 82th solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 82th solution" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solution_44.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution_45.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solution_17.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -766,13 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="57" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution_14.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="55" column="13" selection-end-line="58" />
         </state>
       </provider>
     </entry>
@@ -1018,6 +1002,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../vm.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_14.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="32" column="34" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution_83.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
